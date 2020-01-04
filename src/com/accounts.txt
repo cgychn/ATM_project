@@ -1,0 +1,9 @@
+SavingAccount||id:10007,name:asd1,password:asdasd,personid:asdasd,email:asdasd,balance:0.0
+LoanSavingAccount||id:10008,name:asd2,password:asdasd,personid:asdasd,email:asdasd,balance:89.0,loan:10000.0
+CreditAccount||id:10009,name:asd3,password:asdasd,personid:asdasd,email:asdasd,balance:2022.0,ceiling:10000.0
+LoanCreditAccount||id:10010,name:asd4,password:asdasd,personid:asdasd,email:asdasd,balance:0.0,ceiling:10000.0,loan:100000.0
+LoanSavingAccount||id:10011,name:asd8,password:asdasd,personid:asdasd,email:asdasd,balance:0.0,loan:10000.0
+LoanCreditAccount||id:10012,name:asd13,password:asdasd,personid:asdasd,email:asdasd,balance:26899.0,ceiling:10000.0,loan:81201.0
+SavingAccount||id:10013,name:asdasdq,password:asdasd,personid:asdasd,email:asdasd,balance:0.0
+LoanSavingAccount||id:10014,name:asdasd1122,password:asdasd,personid:asdasd,email:asdasd,balance:0.0,loan:10000.0
+LoanCreditAccount||id:10015,name:asdasdpo,password:asdasd,personid:asdasd,email:assdasd,balance:1002.0,ceiling:10000.0,loan:100000.0
